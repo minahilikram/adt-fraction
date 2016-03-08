@@ -52,4 +52,4 @@ Fractions will not be put into lowest terms.
 
 ### Example
 
-Code does not work if decimals are put in, input has to be in fractions.
+Does not work if decimals are put in, input has to be in fractions.
