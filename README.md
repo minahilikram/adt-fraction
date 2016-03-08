@@ -1,6 +1,6 @@
 # adt-fraction
 
-> Fractin
+> Fraction
 
 [Fraction](https://en.wikipedia.org/wiki/Fraction_(mathematics)) implemented using pointers based on C Algorithms for application of fractions.
 
