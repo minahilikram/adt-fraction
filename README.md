@@ -12,7 +12,7 @@ $ git clone https://github.com/minahilikram/adt-fraction
 
 ## Usage
 
-For an example, see [src/main.c](https://github.com/minahilikram/adt-fraction/blob/master/src/main.c).
+For an example, see [src/main.c](https://github.com/minahilikram/adt-fraction/blob/master/src/main.c); to execute see below.
 
 ```sh
 $ cd adt-fraction/
