@@ -20,10 +20,10 @@ $ make
 $ make run
 ```
 
-## Limitations
-
-Fractions will not be put into lowest terms. 
-
 ### Example
 
 Does not work if decimals are put in, input has to be in fractions.
+
+## Limitations
+
+Fractions will not be put into lowest terms. 
