@@ -17,12 +17,12 @@ OBJS    = fraction.o main.o
 PROGNAME = $(BINDIR)mainrunnable
 
 
-default : labLink
+default : lLink
 
-labLink: labCompile
+link: compile
 	$(CC) -o $(PROGNAME) $(OBJS)
 
-labCompile: 
+compile: 
 	$(CC) $(CFLAGS) -c $(SOURCE) $(INCLUDES)
 
 clean:
