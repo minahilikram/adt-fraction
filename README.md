@@ -17,7 +17,7 @@ For an example, see [src/main.c](https://github.com/minahilikram/adt-fraction/bl
 ```sh
 $ cd adt-fraction/
 $ make
-$ make <b>run</b>
+$ make run
 ```
 
 ## Limitations
